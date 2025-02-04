@@ -9,7 +9,7 @@
 - Node.js (建議版本 >= 14)
 - npm
 
-# How to use?
+## How to use?
 
 1. Initialize
 ```
@@ -25,3 +25,6 @@ node findDu_with_err_show_new_alog.js "比較檔案或是資料夾的路徑" n
 3. 注意要點
 - 可以自行設定要忽略的東西 (ignore 相關變數)
 - 結果報告，默認放在 log 資料夾中，務必先建立!! 或是去 reportPath 變數調整
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
